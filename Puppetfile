@@ -14,7 +14,6 @@ forge "https://forgeapi.puppetlabs.com"
 # A module from git
  mod 'test',
    :git => 'https://github.com/mkori/test.git'
-   :branch => 'master'
 
 # A module from a git branch/tag
 # mod 'puppetlabs-apt',
